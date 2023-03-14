@@ -1,0 +1,7 @@
+in this train_validation_cardio_tox_data.csv
+
+1 for IC50 <= 10 uM - keep the No for our training data set
+0 for IC50 > 10 uM - our threshhold for Yes IC50 > 20 uM, so not keeping
+
+No - 9072
+Yes - 1441
